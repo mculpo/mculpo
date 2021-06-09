@@ -13,7 +13,6 @@
 * Trabalhei com desenvolvimento de Jogos entre os anos de 2012 ~ 2018.
 * Trabalhei com desenvolvimento em Plataformas Multi-touch com protocole de comunicação TUIO.
 * Desenvolvimento de aplicações com Realidade Aumentada, utilizando o Vuforia.
-* Gosto bastante de Jogos Eletrônicos e TCG (Trading Card Game), hoje não tenho preferência nos estilos de jogos, são quase todos muitos bons e bem produzido.
 * Ribeirão Preto - SP
 
 
