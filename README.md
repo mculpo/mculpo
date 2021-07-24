@@ -6,7 +6,6 @@
 ### Graduated In System Information since 2014
 
 * C#, Java, SQL, Javascript, CSS, HTML5, Cg/HLSL
-* SDL and OpenGL
 * React, Backbone and JSF
 * Unity 3D
 * Good pratics and performance in Mobile and PC development desenvolvimento Mobile e PC.
