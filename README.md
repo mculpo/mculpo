@@ -3,7 +3,7 @@
 
 
 ## About
-### Graduated In System Information since to 2014
+### Graduated In System Information since 2014
 
 * C#, Java, SQL, Javascript, CSS, HTML5, Cg/HLSL
 * SDL and OpenGL
