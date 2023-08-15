@@ -5,13 +5,12 @@
 ## About
 ### Graduated In System Information since 2014
 
-* C#, Java, SQL, Javascript, CSS, HTML5, Cg/HLSL
+* C++, C#, Java, SQL, Javascript, CSS, HTML5, Cg/HLSL
 * React, Backbone and JSF
-* Unity 3D
+* Unity 3D / OpenGE
 * Good pratics and performance in Mobile and PC development.
-* I worked as Game Developer between 2012 and until mid 2019
+* I worked as Game Developer between 2013 and until mid 2019
 * I worked as Developer in Mult-touch plataform with TUIO protocal communication
-* I worked as App Developer with Argumented Reality using Vulforia
 * Ribeirão Preto - SP
 
 
