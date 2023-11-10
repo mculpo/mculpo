@@ -7,10 +7,9 @@
 
 * C++, C#, Java, SQL, Javascript, CSS, HTML5, Cg/HLSL
 * React, Backbone and JSF
-* Unity 3D / OpenGE
+* Unity 3D / Echo Engine / Echo Ecs
 * Good pratics and performance in Mobile and PC development.
-* I worked as Game Developer between 2013 and until mid 2019
-* I worked as Developer in Mult-touch plataform with TUIO protocal communication
+* I worked as Game Developer between 2014 and until mid 2019 with Unity
 * Ribeirão Preto - SP
 
 
