@@ -5,7 +5,7 @@
 ## About
 ### Graduated In System Information since 2014
 
-* C++, C#, Java, SQL, Javascript, CSS, HTML5, Cg/HLSL
+* C++, Java, SQL
 * React, Backbone and JSF
 * Unity 3D / Echo Engine / Echo Ecs
 * Good pratics and performance in Mobile and PC development.
