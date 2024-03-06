@@ -5,11 +5,9 @@
 ## About
 ### Graduated In System Information since 2014
 
-* C++, Java, SQL
+* C++, Java, C#
 * React, Backbone and JSF
-* Unity 3D / Echo Engine / Echo Ecs
-* Good pratics and performance in Mobile and PC development.
-* I worked as Game Developer between 2014 and until mid 2019 with Unity
+* Unity 3D / Echo Engine / Echo ECS
 * Ribeirão Preto - SP
 
 
