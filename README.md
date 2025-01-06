@@ -3,7 +3,7 @@
 
 
 ## About
-### Graduated In System Information / 2014
+### System Information / 2014
 
 * C++, Java, C#
 * React, Backbone and JSF
