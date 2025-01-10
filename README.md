@@ -1,14 +1,12 @@
 ## Mateus Ribeiro Culpo
 
-
-
 ## About
 ### System Information / 2014
 
-* C++, Java, C#
-* React, Backbone and JSF
-* Unity 3D / Echo Engine / Echo ECS
-* Ribeirão Preto - SP
+* C/C++
+* Java
+* C#
+* Assembly NES 6502
 
 
 ### Language ,Frameworks and Technology
